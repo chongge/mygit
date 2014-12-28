@@ -10,4 +10,7 @@ int main()
 {
 	std::cout<<"hello"<<std::endl;	
 	std::cout<<"world"<<std::endl;	
+	std::cout<<"how ";	
+	std::cout<<"are ";	
+	std::cout<<"you"<<std::endl;	
 }
